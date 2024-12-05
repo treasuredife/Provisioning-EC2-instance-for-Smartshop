@@ -13,3 +13,4 @@ Set up VPC
 Launch EC2 instance
 Install Apache web
 Enable monitoring and Logging
+![VPC creation]("\images\Screenshot 2024-12-05 181445.png")
