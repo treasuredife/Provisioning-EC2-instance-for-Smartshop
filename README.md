@@ -8,3 +8,8 @@ As cloud engineers, your team is hired by SmartShop to design and deploy a relia
 •	Ensure high availability and consistent user experience.
 •	Implement strong security measures to protect customer data.
 •	Be cost-effective and optimized for performance.
+#### Project Task
+Set up VPC
+Launch EC2 instance
+Install Apache web
+Enable monitoring and Logging
